@@ -1,0 +1,1 @@
+Untuk membaca image, kita menggunakan widget **AssetImage**. Untuk menampilkannya, kita menggunakan sebagai parameter **image** dalam  widget **Image**. Lalu kita memasukkan image ini ke dalam container, misal widget **Container**, **Column**, **Row**, **Stack**, dan sejenisnya. Berikut contoh menampilkan **AssetImage** dalam widget **Container** :
